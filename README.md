@@ -2,5 +2,5 @@
 
 ## Links of Interest
 
-* [inreality.show)( http://inreality.show )
+* [inreality.show]( http://inreality.show )
 
