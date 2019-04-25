@@ -12,3 +12,9 @@
 * [Leapfroging economies – Shammah Chancellor – Medium]( https://medium.com/@shammahchancellor/a973577e3ba0 )
 * [Comments on ‘The Gentrification of Payments’ an article by Brett Scott]( https://medium.com/@ta/comments-on-the-gentrification-of-payments-an-article-by-brett-scott-d2e5931e90c4 )
 
+### Federalist Papers
+
+* https://www.loc.gov/rr/program/bib/ourdocs/federalist.html
+* https://en.wikipedia.org/wiki/The_Federalist_Papers
+* https://en.wikipedia.org/wiki/Anti-Federalist_Papers
+
