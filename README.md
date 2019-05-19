@@ -129,7 +129,7 @@ A rebuttal of the previous
 
 ### [Money, Economies, States, Taxation and Bitcoin for Dummies]( https://shablag.com/article/money-economies-states-taxation-and-bitcoin-for-dummies/ )
 
-\> Money, though ubiquitous, is a poorly understood technology.
+> Money, though ubiquitous, is a poorly understood technology.
 
 * [Money Is Technology!]( https://dailyreckoning.com/money-is-technology/ )
 

@@ -73,9 +73,7 @@ https://en.wikipedia.org/wiki/Nash_equilibrium
 
 Add: ...in our time, locale and milieu.
 
-Ad
-
-aptable to other cultures and belief systems
+Adaptable to other cultures and belief systems?
 
 ## Belief Systems
 
