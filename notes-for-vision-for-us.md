@@ -39,8 +39,8 @@ Covers all the significant considerations
 * https://en.wikipedia.org/wiki/Coordination_failure_(economics)
 
 ## Nash Equilibrium
-*
-https://en.wikipedia.org/wiki/Nash_equilibrium
+
+* https://en.wikipedia.org/wiki/Nash_equilibrium
 
 > In game theory, the Nash equilibrium, named after the mathematician John Forbes Nash Jr., is a proposed solution of a non-cooperative game involving two or more players in which each player is assumed to know the equilibrium strategies of the other players, and no player has anything to gain by changing only their own strategy.
 
