@@ -19,9 +19,18 @@
 
 ***
 
+
 ## Links to topical items that might be of interest for a while
 
 *Odd links that just happen to happen and might be worth discussing one day*
+
+
+### 2019-05
+
+* [The Intellectual Dark Web Is A Year Old. Do We Know What It Is Yet?]( https://arcdigital.media/the-intellectual-dark-web-is-a-year-old-do-we-know-what-it-is-yet-7a8dd3d6d06a )
+
+> There are fundamental biological differences between men and women. Free speech is under siege. Identity politics is a toxic ideology that is tearing American society apart.
+
 
 ### 2019-04
 
@@ -99,6 +108,8 @@ A rebuttal of the previous
 
 * https://en.wikipedia.org/wiki/Inflation
 
+
+
 ### papers /posts
 
 * https://medium.com/@hayekian/how-bitcoin-spreads-austrian-economics-and-thus-worldwide-intellectual-revolution-9df49929725d
@@ -110,7 +121,7 @@ A rebuttal of the previous
 
 ### GitHub Orgs
 
-* https://github.com/amagiproject/
+* https://github.com/amagiproject/  << what happened to it? >>
 	* https://github.com/amagiproject/the-law/blob/master/content/_index.md
 * https://github.com/ecumenopolis/suggestions/tree/master/content
 	* https://github.com/ecumenopolis/suggestions/blob/master/content/_index.md
