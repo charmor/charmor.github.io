@@ -39,7 +39,7 @@ Links of interest include:
 
 What do people really want? This is not an easy question. So again we would like a shortcut. So let us see if we can identify as many types of things as possible that most populations are likely to want or need in the course of their lives. There will be games to be played here. For example, I may want a chocolate bar now but what I need in my daily life is food. The goal is to identify a reasonable number of things to discuss, probably not much more tha a few hundred types of things would be nice.
 
-See links in: "Maximize human flourishing and minimize human suffering" in [Notes for "A Vision forUs" ]( #notes-for-vision-for-us.md )
+See links in: "Maximize human flourishing and minimize human suffering" in https://github.com/charmor/charmor.github.io/blob/master/notes-for-vision-for-us.md
 
 
 
