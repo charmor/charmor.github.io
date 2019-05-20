@@ -31,6 +31,9 @@
 
 > There are fundamental biological differences between men and women. Free speech is under siege. Identity politics is a toxic ideology that is tearing American society apart.
 
+* https://en.wikipedia.org/wiki/Nordic_model
+
+
 
 ### 2019-04
 

@@ -14,6 +14,23 @@ What are aspects of the human condition that define flourishing and suffering?
 
 ### [Manfred Max-Neef's Fundamental human needs]( https://en.wikipedia.org/wiki/Manfred_Max-Neef%27s_Fundamental_human_needs )
 
+1. Development is about people and not about things.
+	* When it comes to people and not just about things, the gross national product (GNP) cannot be taken as an indicator. Instead it has to be related to the quality of life (QOL). Quality of life depends on the possibilities people have to adequately satisfy their fundamental human needs.
+2. Fundamental human needs are finite, limited in number, and classifiable.
+	* This is in contrast to the traditional idea that there are many human needs, and that they are insatiable.
+3. Fundamental human needs are the same in all cultures and in all historical periods.
+	* This is in contrast to the traditional idea that human needs are subject to trends and vary to a great extent.
+
+### https://en.wikipedia.org/wiki/Need
+
+> A need is something that is necessary for an organism to live a healthy life. Needs are distinguished from wants in that, in the case of a need, a deficiency causes a clear adverse outcome: a dysfunction or death. In other words, a need is something required for a safe, stable and healthy life (e.g. air, water, food, shelter) while a want is a desire, wish or aspiration. When needs or wants are backed by purchasing power, they have the potential to become economic demands.
+
+> Basic needs such as air, water, food and protection from environmental dangers are necessary for an organism to live. In addition to basic needs, humans also have needs of a social or societal nature such as the human need to socialise of belong to a family unit or group. Needs can be objective and physical, such as the need for food, or psychological and subjective, such as the need for self-esteem.
+
+> Needs and wants are a matter of interest in, and form a common substrate for, the fields of philosophy, biology, psychology, social science, economics, marketing and politics.
+
+
+
 ### https://www.un.org/en/universal-declaration-human-rights/index.html
 
 Covers all the significant considerations
@@ -21,6 +38,15 @@ Covers all the significant considerations
 ### https://www.ohchr.org/en/professionalinterest/pages/cescr.aspx
 
 > Each State Party to the present Covenant undertakes to take steps, individually and through international assistance and co-operation, especially economic and technical, to the maximum of its available resources, with a view to achieving progressively the full realization of the rights recognized in the present Covenant by all appropriate means, including particularly the adoption of legislative measures.
+
+More links
+
+* https://en.wikipedia.org/wiki/Value_theory
+* https://en.wikipedia.org/wiki/Value_(ethics)
+* https://en.wikipedia.org/wiki/Philosophy_of_desire
+* https://en.wikipedia.org/wiki/Desire
+* https://www.robertholden.com/blog/the-happiness-genie/
+
 
 
 ## coordination problem
