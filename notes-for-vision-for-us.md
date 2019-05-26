@@ -64,6 +64,8 @@ More links
 * https://en.wikipedia.org/wiki/Coordination_game
 * https://en.wikipedia.org/wiki/Coordination_failure_(economics)
 
+
+
 ## Nash Equilibrium
 
 * https://en.wikipedia.org/wiki/Nash_equilibrium
@@ -100,6 +102,7 @@ More links
 Add: ...in our time, locale and milieu.
 
 Adaptable to other cultures and belief systems?
+
 
 ## Belief Systems
 
