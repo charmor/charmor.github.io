@@ -1,3 +1,4 @@
-nothing here
+The goal of this project is to maximize human flourishing and minimize human suffering
 
-## [Ecumenopoplis]( https://charmor.github.io/ecumenopolis.html)
+
+## [Ecumenopolis]( https://charmor.github.io/ecumenopolis/ecumenopolis.html)
